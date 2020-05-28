@@ -1,15 +1,11 @@
 # GitHub for Developers
 
-- Class Date: January 28-29 2020
+- Class Date: May 28 2020
 - Facilitator: @migarjo
 
 ## Talk to Us!!
 
 If you have a question, or need assistance during class, **please create an issue and mention @migarjo**.
-
-## Give Us Feedback
-
-Please take a moment to complete the class survey at: <https://www.surveymonkey.com/r/M7M9LNL>
 
 ## Scripts for Adding Files
 
